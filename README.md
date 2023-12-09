@@ -25,5 +25,5 @@ I am Rodel Angelo Tariao, with a flair for coding and database management skills
 
 ## Let's Connect!
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rodel-angelo-0022b32a3/)
+- LinkedIn: [RodelAngeloTariao](https://www.linkedin.com/in/rodel-angelo-0022b32a3/)
 - Email: rodel.angelo11@gmail.com

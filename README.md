@@ -16,7 +16,8 @@ I am Rodel Angelo Tariao, with a flair for coding and database management skills
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=69CB59FDF676BEDDC2B2F434E3BE25976554230C375F0345752F5710054B7091&fbclid=IwAR2pyQdjNQEDEuD6glgmNqWoW5hq86Ts2ZjousUmO3-TTUyMopHIpEbl0ac)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B0E1730E1B2BE8586DB6B2CD0AB3C4866C9D12E651FD005A07E3F858EC02322C&fbclid=IwAR341Pzm-BE0rTrfO2VNvvv7mD_kjuGkapwYVn38lUQJEJwq1PVHfWdAz7g)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/4c7f91dba1114b52b501901718964a1d)
-
+- [NoSQL and DBaaS 101] (https://courses.cognitiveclass.ai/certificates/278be2ea9b4d46938d66f4432d1dba29)
+ 
 ## Skills
 
 - **Programming:** Java, Javascript
